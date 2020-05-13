@@ -9,7 +9,10 @@ mergeStyles({
     ':global(body), :global(html), :global(#app)': {
       margin: 0,
       padding: 0,
-      height: '100vh'
+      height: '100vh',
+    },
+    ':global(h2)': {
+      margin: 0
     }
   }
 });

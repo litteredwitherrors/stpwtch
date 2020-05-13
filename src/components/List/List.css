@@ -1,0 +1,15 @@
+.list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.list-container {
+  width: 10em;
+  height: 50vh;
+  padding: 0 1em;
+}
+
+.list-item {
+  margin-bottom: 0.25em;
+}
